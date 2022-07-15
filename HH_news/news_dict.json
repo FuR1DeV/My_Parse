@@ -1,0 +1,602 @@
+{
+    "26641": {
+        "news_url": "https://hh.ru/article/26641",
+        "news_id": "26641",
+        "news_title": "Обзоры рынка труда: коротко о самом важном",
+        "news_img_url": "https://hhcdn.ru/icms/10256307.jpg"
+    },
+    "30249": {
+        "news_url": "https://hh.ru/article/30249",
+        "news_id": "30249",
+        "news_title": "Патент HeadHunter на компонент Умного поиска признан коммерчески успешным изобретением",
+        "news_img_url": "https://hhcdn.ru/icms/10258266.jpg"
+    },
+    "30204": {
+        "news_url": "https://hh.ru/article/30204",
+        "news_id": "30204",
+        "news_title": "Когда нужно прямо сейчас: новые фильтры поиска по статусу кандидатов",
+        "news_img_url": "https://hhcdn.ru/icms/10257558.jpg"
+    },
+    "30178": {
+        "news_url": "https://hh.ru/article/30178",
+        "news_id": "30178",
+        "news_title": "Всегда свежие резюме: облачная CRM для рекрутмента Talantix от hh.ru первой запустила «живую» базу кандидатов",
+        "news_img_url": "https://hhcdn.ru/icms/10256958.jpg"
+    },
+    "30080": {
+        "news_url": "https://hh.ru/article/30080",
+        "news_id": "30080",
+        "news_title": "hh.ru всегда рядом и на связи: поддержка работодателей и соискателей",
+        "news_img_url": "https://hhcdn.ru/icms/10255383.jpg"
+    },
+    "30083": {
+        "news_url": "https://hh.ru/article/30083",
+        "news_id": "30083",
+        "news_title": "Мы продлили на месяц срок действия пакетов вакансий",
+        "news_img_url": "https://hhcdn.ru/icms/10255324.jpg"
+    },
+    "28992": {
+        "news_url": "https://hh.ru/article/28992",
+        "news_id": "28992",
+        "news_title": "Call-трекинг* на hh.ru: юг России, Сибирь, далее — везде",
+        "news_img_url": "https://hhcdn.ru/icms/10255093.jpg"
+    },
+    "30063": {
+        "news_url": "https://hh.ru/article/30063",
+        "news_id": "30063",
+        "news_title": "Цифровая трансформация и забота о сотрудниках — какие проекты вышли в финал Премии HR-бренд 2021",
+        "news_img_url": "https://hhcdn.ru/icms/10255145.jpg"
+    },
+    "29978": {
+        "news_url": "https://hh.ru/article/29978",
+        "news_id": "29978",
+        "news_title": "Отклик из чата: новые возможности для быстрого найма линейного персонала на hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10253907.jpg"
+    },
+    "28130": {
+        "news_url": "https://hh.ru/article/28130",
+        "news_id": "28130",
+        "news_title": "Время лучших: итоги Рейтинга работодателей России hh.ru 2021",
+        "news_img_url": "https://hhcdn.ru/icms/10253787.jpg"
+    },
+    "29914": {
+        "news_url": "https://hh.ru/article/29914",
+        "news_id": "29914",
+        "news_title": "В активном поиске: соискатели теперь могут устанавливать статусы",
+        "news_img_url": "https://hhcdn.ru/icms/10251973.jpg"
+    },
+    "29865": {
+        "news_url": "https://hh.ru/article/29865",
+        "news_id": "29865",
+        "news_title": "Как и зачем мы меняем форму заполнения вакансии?",
+        "news_img_url": "https://hhcdn.ru/icms/10250919.jpg"
+    },
+    "29878": {
+        "news_url": "https://hh.ru/article/29878",
+        "news_id": "29878",
+        "news_title": "Что нового в Talantix: фильтры по подразделениям и новым откликам, подсказки для интеграции с почтой",
+        "news_img_url": "https://hhcdn.ru/icms/10251286.jpg"
+    },
+    "25368": {
+        "news_url": "https://hh.ru/article/25368",
+        "news_id": "25368",
+        "news_title": "Как искали работу на hh.ru в 2021 году: самые популярные запросы пользователей",
+        "news_img_url": "https://hhcdn.ru/icms/10249765.jpg"
+    },
+    "hhappynewyear": {
+        "news_url": "https://hh.ru/article/hhappynewyear",
+        "news_id": "hhappynewyear",
+        "news_title": "hhappy new year!* Новогодние подарки от hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10248816.jpg"
+    },
+    "29768": {
+        "news_url": "https://hh.ru/article/29768",
+        "news_id": "29768",
+        "news_title": "На hh.ru новый каталог специализаций: кандидатам без опыта станет проще искать работу",
+        "news_img_url": "https://hhcdn.ru/icms/10249102.jpg"
+    },
+    "29694": {
+        "news_url": "https://hh.ru/article/29694",
+        "news_id": "29694",
+        "news_title": "В моменте, в потоке, в ресурсе: HR Digital 2021",
+        "news_img_url": "https://hhcdn.ru/icms/10247067.jpg"
+    },
+    "29124": {
+        "news_url": "https://hh.ru/article/29124",
+        "news_id": "29124",
+        "news_title": "Системная работа с репутацией: hh.ru и Dream Job запустили виджет с отзывами о работодателях",
+        "news_img_url": "https://hhcdn.ru/icms/10246555.jpg"
+    },
+    "29524": {
+        "news_url": "https://hh.ru/article/29524",
+        "news_id": "29524",
+        "news_title": "Talantix подключил интеграцию с Telegram",
+        "news_img_url": "https://hhcdn.ru/icms/10243718.jpg"
+    },
+    "29566": {
+        "news_url": "https://hh.ru/article/29566",
+        "news_id": "29566",
+        "news_title": "Встречайте новый каталог специализаций: теперь грузчик и на фабрике грузчик",
+        "news_img_url": "https://hhcdn.ru/icms/10244459.jpg"
+    },
+    "29328": {
+        "news_url": "https://hh.ru/article/29328",
+        "news_id": "29328",
+        "news_title": "Как вести подбор без перетрат: смотрим новый отчет «Эффективность потребления контактов»",
+        "news_img_url": "https://hhcdn.ru/icms/10240557.jpg"
+    },
+    "29354": {
+        "news_url": "https://hh.ru/article/29354",
+        "news_id": "29354",
+        "news_title": "В Talantix появились онлайн-формы оценки кандидатов",
+        "news_img_url": "https://hhcdn.ru/icms/10241030.jpg"
+    },
+    "29222": {
+        "news_url": "https://hh.ru/article/29222",
+        "news_id": "29222",
+        "news_title": "Время имеет значение: на hh.ru теперь есть функция отложенной публикации вакансий",
+        "news_img_url": "https://hhcdn.ru/icms/10239614.jpg"
+    },
+    "29224": {
+        "news_url": "https://hh.ru/article/29224",
+        "news_id": "29224",
+        "news_title": "Сегодня меняем завтра: как hh.ru реализует экоинициативы",
+        "news_img_url": "https://hhcdn.ru/icms/10239437.jpg"
+    },
+    "29126": {
+        "news_url": "https://hh.ru/article/29126",
+        "news_id": "29126",
+        "news_title": "Взаимная выгода: гибкое решение для работы с самозанятыми от hh.ru и YouDo",
+        "news_img_url": "https://hhcdn.ru/icms/10238258.jpg"
+    },
+    "27706": {
+        "news_url": "https://hh.ru/article/27706",
+        "news_id": "27706",
+        "news_title": "Форум карьеристов: новый формат вашей карьерной помощи",
+        "news_img_url": "https://hhcdn.ru/icms/10214624.jpeg"
+    },
+    "29038": {
+        "news_url": "https://hh.ru/article/29038",
+        "news_id": "29038",
+        "news_title": "Обновленное приложение для работодателей — совсем скоро на Android и iOS",
+        "news_img_url": "https://hhcdn.ru/icms/10236147.jpg"
+    },
+    "28939": {
+        "news_url": "https://hh.ru/article/28939",
+        "news_id": "28939",
+        "news_title": "Новое в статистике: показываем эффективность работы с контактами",
+        "news_img_url": "https://hhcdn.ru/icms/10233030.jpg"
+    },
+    "28819": {
+        "news_url": "https://hh.ru/article/28819",
+        "news_id": "28819",
+        "news_title": "CRM Talantix пополнила список интеграций: «Хабр Карьера» стал седьмым job-сайтом в интерфейсе системы",
+        "news_img_url": "https://hhcdn.ru/icms/10231222.jpg"
+    },
+    "28796": {
+        "news_url": "https://hh.ru/article/28796",
+        "news_id": "28796",
+        "news_title": "Новое меню, проблемные вакансии и фильтры: обновления в разделе «Стоимость подбора»",
+        "news_img_url": "https://hhcdn.ru/icms/10231099.jpg"
+    },
+    "28760": {
+        "news_url": "https://hh.ru/article/28760",
+        "news_id": "28760",
+        "news_title": "Люди будущего: какие профессии будут популярны завтра?",
+        "news_img_url": "https://hhcdn.ru/icms/10230369.jpg"
+    },
+    "28751": {
+        "news_url": "https://hh.ru/article/28751",
+        "news_id": "28751",
+        "news_title": "Названы лучшие факультеты и вузы Москвы 2020–2021 гг. по версии hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10230050.jpg"
+    },
+    "28743": {
+        "news_url": "https://hh.ru/article/28743",
+        "news_id": "28743",
+        "news_title": "Точнее и эффективнее: что нового в умном поиске",
+        "news_img_url": "https://hhcdn.ru/icms/10229892.jpg"
+    },
+    "28707": {
+        "news_url": "https://hh.ru/article/28707",
+        "news_id": "28707",
+        "news_title": "OKR в HR-сервисе: кейс hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10229274.jpg"
+    },
+    "28682": {
+        "news_url": "https://hh.ru/article/28682",
+        "news_id": "28682",
+        "news_title": "Мы запустили новый сервис для соискателей — «Репетиция собеседования» с экспертами hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10228965.jpg"
+    },
+    "28594": {
+        "news_url": "https://hh.ru/article/28594",
+        "news_id": "28594",
+        "news_title": "Почему про компанию не знают кандидаты? 11 способов повысить узнаваемость бренда работодателя",
+        "news_img_url": "https://hhcdn.ru/icms/10228560.jpg"
+    },
+    "28608": {
+        "news_url": "https://hh.ru/article/28608",
+        "news_id": "28608",
+        "news_title": "Что нового в Talantix: встречи в рабочем календаре Outlook, сильный HR-бренд, аналитика работы над вакансией",
+        "news_img_url": "https://hhcdn.ru/icms/10228269.jpg"
+    },
+    "28607": {
+        "news_url": "https://hh.ru/article/28607",
+        "news_id": "28607",
+        "news_title": "Объявлены победители Премии HR-бренд — 2020",
+        "news_img_url": "https://hhcdn.ru/icms/10228234.jpg"
+    },
+    "28565": {
+        "news_url": "https://hh.ru/article/28565",
+        "news_id": "28565",
+        "news_title": "Медитации для фокуса на главном: карьере и команде мечты",
+        "news_img_url": "https://hhcdn.ru/icms/10227850.jpg"
+    },
+    "28378": {
+        "news_url": "https://hh.ru/article/28378",
+        "news_id": "28378",
+        "news_title": "Что нового в Talantix: №1 в России, автосогласие кандидатов, подключение менеджера",
+        "news_img_url": "https://hhcdn.ru/icms/10225336.jpg"
+    },
+    "28270": {
+        "news_url": "https://hh.ru/article/28270",
+        "news_id": "28270",
+        "news_title": "Облачная CRM Talantix первой в России внедрила технологии ИИ для рекрутинга",
+        "news_img_url": "https://hhcdn.ru/icms/10223587.jpg"
+    },
+    "28258": {
+        "news_url": "https://hh.ru/article/28258",
+        "news_id": "28258",
+        "news_title": "Департамент государственной службы занятости населения Ярославской области будет сотрудничать с hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10223514.jpg"
+    },
+    "28240": {
+        "news_url": "https://hh.ru/article/28240",
+        "news_id": "28240",
+        "news_title": "Что нового в Talantix: треккинг писем, интеграция с Telegram, push-уведомления",
+        "news_img_url": "https://hhcdn.ru/icms/10223017.jpg"
+    },
+    "25652": {
+        "news_url": "https://hh.ru/article/25652",
+        "news_id": "25652",
+        "news_title": "Ловись, рыбка, большая: настраиваем поиск кандидатов по величине компании и отрасли",
+        "news_img_url": "https://hhcdn.ru/icms/10220890.jpg"
+    },
+    "28110": {
+        "news_url": "https://hh.ru/article/28110",
+        "news_id": "28110",
+        "news_title": "Что нового в Talantix: расширенные фильтры, сортировка вакансий и улучшения в согласовании резюме с заказчиками",
+        "news_img_url": "https://hhcdn.ru/icms/10220796.jpg"
+    },
+    "28058": {
+        "news_url": "https://hh.ru/article/28058",
+        "news_id": "28058",
+        "news_title": "Меняем поиск по резюме: больше фильтров и удобный выбор сразу нескольких параметров",
+        "news_img_url": "https://hhcdn.ru/icms/10219672.jpg"
+    },
+    "27501": {
+        "news_url": "https://hh.ru/article/27501",
+        "news_id": "27501",
+        "news_title": "Офис hh.ru после пандемии: что нас ждет по возвращению в рабочее пространство",
+        "news_img_url": "https://hhcdn.ru/icms/10211594.jpeg"
+    },
+    "27469": {
+        "news_url": "https://hh.ru/article/27469",
+        "news_id": "27469",
+        "news_title": "Объявлены победители Премии HR-бренд 2019: поздравляем!",
+        "news_img_url": "https://hhcdn.ru/icms/10211098.jpeg"
+    },
+    "27475": {
+        "news_url": "https://hh.ru/article/27475",
+        "news_id": "27475",
+        "news_title": "10 директоров hh.ru попали в рейтинг лучших в отрасли «Онлайн-платформы»",
+        "news_img_url": "https://hhcdn.ru/icms/10211240.jpeg"
+    },
+    "27424": {
+        "news_url": "https://hh.ru/article/27424",
+        "news_id": "27424",
+        "news_title": "Что больше всего пугает при поиске работы: результаты опроса",
+        "news_img_url": "https://hhcdn.ru/icms/10210570.jpeg"
+    },
+    "27264": {
+        "news_url": "https://hh.ru/article/27264",
+        "news_id": "27264",
+        "news_title": "Как коронакризис отразился на рынке труда в лесной промышленности",
+        "news_img_url": "https://hhcdn.ru/icms/10208339.jpeg"
+    },
+    "27176": {
+        "news_url": "https://hh.ru/article/27176",
+        "news_id": "27176",
+        "news_title": "Как «коронакризис» повлиял на рынок труда",
+        "news_img_url": "https://hhcdn.ru/icms/10206812.jpeg"
+    },
+    "27243": {
+        "news_url": "https://hh.ru/article/27243",
+        "news_id": "27243",
+        "news_title": "Работа и возраст: стереотипы и реальность",
+        "news_img_url": "https://hhcdn.ru/icms/10207828.jpeg"
+    },
+    "27159": {
+        "news_url": "https://hh.ru/article/27159",
+        "news_id": "27159",
+        "news_title": "Зарплатные тренды первого полугодия 2020 года: худшие прогнозы не сбылись",
+        "news_img_url": "https://hhcdn.ru/icms/10206773.jpeg"
+    },
+    "27173": {
+        "news_url": "https://hh.ru/article/27173",
+        "news_id": "27173",
+        "news_title": "Приглашаем на торжественную церемонию вручения Премии HR-бренд 2019!",
+        "news_img_url": "https://hhcdn.ru/icms/10206725.jpeg"
+    },
+    "27138": {
+        "news_url": "https://hh.ru/article/27138",
+        "news_id": "27138",
+        "news_title": "Остаться на «вечной» удалёнке решили 3% работодателей",
+        "news_img_url": "https://hhcdn.ru/icms/10206137.jpeg"
+    },
+    "27128": {
+        "news_url": "https://hh.ru/article/27128",
+        "news_id": "27128",
+        "news_title": "Специалисты по Data Science: основные навыки и спрос работодателей",
+        "news_img_url": "https://hhcdn.ru/icms/10206831.jpeg"
+    },
+    "27111": {
+        "news_url": "https://hh.ru/article/27111",
+        "news_id": "27111",
+        "news_title": "Почему работодатели станут чаще просматривать ваши отклики",
+        "news_img_url": "https://hhcdn.ru/icms/10205708.jpeg"
+    },
+    "27075": {
+        "news_url": "https://hh.ru/article/27075",
+        "news_id": "27075",
+        "news_title": "Видеоинтервью на hh.ru: проходите собеседования, не выходя из дома",
+        "news_img_url": "https://hhcdn.ru/icms/10205239.jpeg"
+    },
+    "26417": {
+        "news_url": "https://hh.ru/article/26417",
+        "news_id": "26417",
+        "news_title": "Удаленная работа: как выстроить все процессы",
+        "news_img_url": "https://hhcdn.ru/icms/10194171.jpeg"
+    },
+    "27043": {
+        "news_url": "https://hh.ru/article/27043",
+        "news_id": "27043",
+        "news_title": "На что работодатели обращают внимание в резюме: результаты опроса",
+        "news_img_url": "https://hhcdn.ru/icms/10204519.jpeg"
+    },
+    "26941": {
+        "news_url": "https://hh.ru/article/26941",
+        "news_id": "26941",
+        "news_title": "Мы переходим на новую модель работы с базой резюме",
+        "news_img_url": "https://hhcdn.ru/icms/10203138.jpeg"
+    },
+    "26955": {
+        "news_url": "https://hh.ru/article/26955",
+        "news_id": "26955",
+        "news_title": "Получайте больше откликов: новые рекомендации по уровню заработной платы и конкуренции на рынке",
+        "news_img_url": "https://hhcdn.ru/icms/10202855.jpeg"
+    },
+    "26950": {
+        "news_url": "https://hh.ru/article/26950",
+        "news_id": "26950",
+        "news_title": "Доступна запись праздничного эфира hh.ru в честь 20-летия компании",
+        "news_img_url": "https://hhcdn.ru/icms/10202650.jpeg"
+    },
+    "26874": {
+        "news_url": "https://hh.ru/article/26874",
+        "news_id": "26874",
+        "news_title": "Размещайте вакансии со сменным графиком работы",
+        "news_img_url": "https://hhcdn.ru/icms/10202126.jpeg"
+    },
+    "26877": {
+        "news_url": "https://hh.ru/article/26877",
+        "news_id": "26877",
+        "news_title": "Пора участвовать в Рейтинге работодателей 2020 года!",
+        "news_img_url": "https://hhcdn.ru/icms/10201608.jpeg"
+    },
+    "26903": {
+        "news_url": "https://hh.ru/article/26903",
+        "news_id": "26903",
+        "news_title": "Объявляем победителей рейтинга «Лучшие факультеты и вузы Москвы по версии hh.ru 2019–2020»",
+        "news_img_url": "https://hhcdn.ru/icms/10202173.jpeg"
+    },
+    "26860": {
+        "news_url": "https://hh.ru/article/26860",
+        "news_id": "26860",
+        "news_title": "Talantix + Microsoft Teams: организуйте онлайн-собеседования, не выходя из системы",
+        "news_img_url": "https://hhcdn.ru/icms/10201029.jpeg"
+    },
+    "26862": {
+        "news_url": "https://hh.ru/article/26862",
+        "news_id": "26862",
+        "news_title": "Мы запускаем новый сервис онлайн-собеседований совместно с Microsoft",
+        "news_img_url": "https://hhcdn.ru/icms/10201106.jpeg"
+    },
+    "26828": {
+        "news_url": "https://hh.ru/article/26828",
+        "news_id": "26828",
+        "news_title": "Новые отчеты в статистике по стоимости подбора",
+        "news_img_url": "https://hhcdn.ru/icms/10200592.jpeg"
+    },
+    "26845": {
+        "news_url": "https://hh.ru/article/26845",
+        "news_id": "26845",
+        "news_title": "Смело оставляйте любые заметки в карточке кандидата в Talantix",
+        "news_img_url": "https://hhcdn.ru/icms/10200757.jpeg"
+    },
+    "26796": {
+        "news_url": "https://hh.ru/article/26796",
+        "news_id": "26796",
+        "news_title": "Новое в системе Talantix: показывайте резюме коллегам без лишних скачиваний и пересылок",
+        "news_img_url": "https://hhcdn.ru/icms/10200128.jpeg"
+    },
+    "26816": {
+        "news_url": "https://hh.ru/article/26816",
+        "news_id": "26816",
+        "news_title": "Приглашайте соискателей на временную работу",
+        "news_img_url": "https://hhcdn.ru/icms/10200389.jpeg"
+    },
+    "26747": {
+        "news_url": "https://hh.ru/article/26747",
+        "news_id": "26747",
+        "news_title": "Приглашаем на бесплатные вебинары для соискателей",
+        "news_img_url": "https://hhcdn.ru/icms/10199576.jpeg"
+    },
+    "26745": {
+        "news_url": "https://hh.ru/article/26745",
+        "news_id": "26745",
+        "news_title": "Нужен сотрудник? Начните с заявки на подбор в Talantix",
+        "news_img_url": "https://hhcdn.ru/icms/10199313.jpeg"
+    },
+    "26702": {
+        "news_url": "https://hh.ru/article/26702",
+        "news_id": "26702",
+        "news_title": "Новая статистика по эффективности подбора на hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10198147.jpeg"
+    },
+    "26690": {
+        "news_url": "https://hh.ru/article/26690",
+        "news_id": "26690",
+        "news_title": "Кандидаты будут чаще вам звонить и писать на email",
+        "news_img_url": "https://hhcdn.ru/icms/10197979.jpeg"
+    },
+    "26693": {
+        "news_url": "https://hh.ru/article/26693",
+        "news_id": "26693",
+        "news_title": "Новое в поиске вакансий:  приоритет получают публикации с просмотренными откликами",
+        "news_img_url": "https://hhcdn.ru/icms/10198055.jpeg"
+    },
+    "26655": {
+        "news_url": "https://hh.ru/article/26655",
+        "news_id": "26655",
+        "news_title": "HRspace начал работать с самозанятыми рекрутерами",
+        "news_img_url": "https://hhcdn.ru/icms/10197884.jpeg"
+    },
+    "26636": {
+        "news_url": "https://hh.ru/article/26636",
+        "news_id": "26636",
+        "news_title": "Меняем логику создания паролей на нашем сервисе",
+        "news_img_url": "https://hhcdn.ru/icms/10198138.jpeg"
+    },
+    "26629": {
+        "news_url": "https://hh.ru/article/26629",
+        "news_id": "26629",
+        "news_title": "Кандидат онлайн: приглашайте тех, кто сейчас пользуется сервисом",
+        "news_img_url": "https://hhcdn.ru/icms/10197054.jpeg"
+    },
+    "26616": {
+        "news_url": "https://hh.ru/article/26616",
+        "news_id": "26616",
+        "news_title": "Кнопка «Сохранить в Talantix»: добавляйте резюме в CRM в один клик",
+        "news_img_url": "https://hhcdn.ru/icms/10196846.jpeg"
+    },
+    "26605": {
+        "news_url": "https://hh.ru/article/26605",
+        "news_id": "26605",
+        "news_title": "В Telegram появился помощник от hh.ru",
+        "news_img_url": "https://hhcdn.ru/icms/10197793.jpeg"
+    },
+    "26549": {
+        "news_url": "https://hh.ru/article/26549",
+        "news_id": "26549",
+        "news_title": "Присоединяйтесь к телеграм-каналу с вакансиями для удалёнки",
+        "news_img_url": "https://hhcdn.ru/icms/10195958.jpeg"
+    },
+    "26554": {
+        "news_url": "https://hh.ru/article/26554",
+        "news_id": "26554",
+        "news_title": "Эксперт hh.ru разберет резюме в прямом эфире",
+        "news_img_url": "https://hhcdn.ru/icms/10196013.jpeg"
+    },
+    "26556": {
+        "news_url": "https://hh.ru/article/26556",
+        "news_id": "26556",
+        "news_title": "Теперь можно искать работу на hh.ru, не выходя из ВКонтакте",
+        "news_img_url": "https://hhcdn.ru/icms/10196049.jpeg"
+    },
+    "26470": {
+        "news_url": "https://hh.ru/article/26470",
+        "news_id": "26470",
+        "news_title": "Время на «прийти в себя»: компенсация нерабочей недели",
+        "news_img_url": "https://hhcdn.ru/icms/10194742.jpeg"
+    },
+    "26401": {
+        "news_url": "https://hh.ru/article/26401",
+        "news_id": "26401",
+        "news_title": "Как мы улучшили Умный поиск на hh.ru в 2019 году: инфографика",
+        "news_img_url": "https://hhcdn.ru/icms/10194302.jpeg"
+    },
+    "26348": {
+        "news_url": "https://hh.ru/article/26348",
+        "news_id": "26348",
+        "news_title": "Два компонента Умного поиска на hh.ru запатентованы",
+        "news_img_url": "https://hhcdn.ru/icms/10193349.jpeg"
+    },
+    "26340": {
+        "news_url": "https://hh.ru/article/26340",
+        "news_id": "26340",
+        "news_title": "Вместо подарков на 23 февраля и 8 Марта — поддержка благотворительности",
+        "news_img_url": "https://hhcdn.ru/icms/10193272.jpeg"
+    },
+    "26119": {
+        "news_url": "https://hh.ru/article/26119",
+        "news_id": "26119",
+        "news_title": "На HRspace заработал массовый подбор",
+        "news_img_url": "https://hhcdn.ru/icms/10190498.jpeg"
+    },
+    "25985": {
+        "news_url": "https://hh.ru/article/25985",
+        "news_id": "25985",
+        "news_title": "Теперь вы знаете, сколько раз ваше резюме показывалось в поиске",
+        "news_img_url": "https://hhcdn.ru/icms/10187567.jpeg"
+    },
+    "25934": {
+        "news_url": "https://hh.ru/article/25934",
+        "news_id": "25934",
+        "news_title": "Кнопка «Не пришел»: отмечайте тех, кто не пришел на интервью",
+        "news_img_url": "https://hhcdn.ru/icms/10186794.jpeg"
+    },
+    "25906": {
+        "news_url": "https://hh.ru/article/25906",
+        "news_id": "25906",
+        "news_title": "Открываем аналитику по вакансии",
+        "news_img_url": "https://hhcdn.ru/icms/10186449.jpeg"
+    },
+    "25850": {
+        "news_url": "https://hh.ru/article/25850",
+        "news_id": "25850",
+        "news_title": "До Нового года можно заказать отчет «HR-бенчмаркинг» по акции",
+        "news_img_url": "https://hhcdn.ru/icms/10185661.jpeg"
+    },
+    "25638": {
+        "news_url": "https://hh.ru/article/25638",
+        "news_id": "25638",
+        "news_title": "Изменения на странице «Мои вакансии»",
+        "news_img_url": "https://hhcdn.ru/icms/10183516.jpeg"
+    },
+    "25628": {
+        "news_url": "https://hh.ru/article/25628",
+        "news_id": "25628",
+        "news_title": "Главное на главной: лента обновлений hh.ru в личном кабинете",
+        "news_img_url": "https://hhcdn.ru/icms/10183332.jpeg"
+    },
+    "25511": {
+        "news_url": "https://hh.ru/article/25511",
+        "news_id": "25511",
+        "news_title": "Доступ к базе резюме на один день: изменения в условиях с 6 ноября",
+        "news_img_url": "https://hhcdn.ru/icms/10183019.jpeg"
+    },
+    "25471": {
+        "news_url": "https://hh.ru/article/25471",
+        "news_id": "25471",
+        "news_title": "7 директоров HeadHunter признаны лучшими в отрасли «Онлайн-платформы»",
+        "news_img_url": "https://hhcdn.ru/icms/10181102.jpeg"
+    },
+    "25442": {
+        "news_url": "https://hh.ru/article/25442",
+        "news_id": "25442",
+        "news_title": "Мы начали оцифровку навыков кандидатов. Теперь — ваш черед!",
+        "news_img_url": "https://hhcdn.ru/icms/10180728.jpeg"
+    }
+}

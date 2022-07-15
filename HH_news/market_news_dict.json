@@ -1,0 +1,602 @@
+{
+    "26641": {
+        "market_news_url": "https://hh.ru/article/26641",
+        "market_news_id": "26641",
+        "market_news_title": "Обзоры рынка труда: коротко о самом важном",
+        "market_news_img_url": "https://hhcdn.ru/icms/10256307.jpg"
+    },
+    "30099": {
+        "market_news_url": "https://hh.ru/article/30099",
+        "market_news_id": "30099",
+        "market_news_title": "Сверхновая реальность рынка труда: аналитика и прогнозы",
+        "market_news_img_url": "https://hhcdn.ru/icms/10255727.jpg"
+    },
+    "30063": {
+        "market_news_url": "https://hh.ru/article/30063",
+        "market_news_id": "30063",
+        "market_news_title": "Цифровая трансформация и забота о сотрудниках — какие проекты вышли в финал Премии HR-бренд 2021",
+        "market_news_img_url": "https://hhcdn.ru/icms/10255145.jpg"
+    },
+    "30019": {
+        "market_news_url": "https://hh.ru/article/30019",
+        "market_news_id": "30019",
+        "market_news_title": "«Я бы в армию (не) пошел»: россияне назвали плюсы и минусы военной карьеры",
+        "market_news_img_url": "https://hhcdn.ru/icms/10254150.jpg"
+    },
+    "28130": {
+        "market_news_url": "https://hh.ru/article/28130",
+        "market_news_id": "28130",
+        "market_news_title": "Время лучших: итоги Рейтинга работодателей России hh.ru 2021",
+        "market_news_img_url": "https://hhcdn.ru/icms/10253787.jpg"
+    },
+    "29963": {
+        "market_news_url": "https://hh.ru/article/29963",
+        "market_news_id": "29963",
+        "market_news_title": "Состояние рынка труда в Санкт-Петербурге по итогам 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10253522.jpg"
+    },
+    "29872": {
+        "market_news_url": "https://hh.ru/article/29872",
+        "market_news_id": "29872",
+        "market_news_title": "Лесная промышленность России: итоги 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10251137.jpg"
+    },
+    "29837": {
+        "market_news_url": "https://hh.ru/article/29837",
+        "market_news_id": "29837",
+        "market_news_title": "Судостроение: итоги 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10250481.jpg"
+    },
+    "29806": {
+        "market_news_url": "https://hh.ru/article/29806",
+        "market_news_id": "29806",
+        "market_news_title": "Работа вахтовым методом: итоги 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10249856.jpg"
+    },
+    "29753": {
+        "market_news_url": "https://hh.ru/article/29753",
+        "market_news_id": "29753",
+        "market_news_title": "День энергетика: спрос на работников вырос на 54%, а зарплата — лишь на 9%. Итоги года в отрасли по версии hh.ru",
+        "market_news_img_url": "https://hhcdn.ru/icms/10248830.jpg"
+    },
+    "29701": {
+        "market_news_url": "https://hh.ru/article/29701",
+        "market_news_id": "29701",
+        "market_news_title": "Пандемия рынка труда. Новые грани",
+        "market_news_img_url": "https://hhcdn.ru/icms/10247286.jpg"
+    },
+    "29660": {
+        "market_news_url": "https://hh.ru/article/29660",
+        "market_news_id": "29660",
+        "market_news_title": "Исследование ProductStar и hh.ru: продакт-менеджерами становятся бывшие менеджеры по продажам и маркетологи",
+        "market_news_img_url": "https://hhcdn.ru/icms/10246361.jpg"
+    },
+    "29663": {
+        "market_news_url": "https://hh.ru/article/29663",
+        "market_news_id": "29663",
+        "market_news_title": "Работа в хлебопекарной отрасли: кто востребован и сколько платят по итогам последних месяцев",
+        "market_news_img_url": "https://hhcdn.ru/icms/10246389.jpg"
+    },
+    "29664": {
+        "market_news_url": "https://hh.ru/article/29664",
+        "market_news_id": "29664",
+        "market_news_title": "Строителям СЗФО за год подняли предлагаемую зарплату на 10 000 рублей",
+        "market_news_img_url": "https://hhcdn.ru/icms/10246398.jpg"
+    },
+    "29625": {
+        "market_news_url": "https://hh.ru/article/29625",
+        "market_news_id": "29625",
+        "market_news_title": "Рынок труда Калининградской области: итоги III квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10245441.jpg"
+    },
+    "29614": {
+        "market_news_url": "https://hh.ru/article/29614",
+        "market_news_id": "29614",
+        "market_news_title": "Рынок труда Ленинградской области по итогам III квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10245239.jpg"
+    },
+    "29616": {
+        "market_news_url": "https://hh.ru/article/29616",
+        "market_news_id": "29616",
+        "market_news_title": "Рынок труда в Мурманской области: итоги III квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10245282.jpg"
+    },
+    "29576": {
+        "market_news_url": "https://hh.ru/article/29576",
+        "market_news_id": "29576",
+        "market_news_title": "Рынок труда в Санкт-Петербурге: итоги III квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10244629.jpg"
+    },
+    "29579": {
+        "market_news_url": "https://hh.ru/article/29579",
+        "market_news_id": "29579",
+        "market_news_title": "Рынок труда в Архангельской области: итоги III квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10244653.jpg"
+    },
+    "29562": {
+        "market_news_url": "https://hh.ru/article/29562",
+        "market_news_id": "29562",
+        "market_news_title": "Спрос российских компаний на HR-специалистов со знанием автоматизации вырос за год почти в 3 раза",
+        "market_news_img_url": "https://hhcdn.ru/icms/10244450.jpg"
+    },
+    "29482": {
+        "market_news_url": "https://hh.ru/article/29482",
+        "market_news_id": "29482",
+        "market_news_title": "Количество вакансий в пивной индустрии выросло на 45% по сравнению с 2020 годом",
+        "market_news_img_url": "https://hhcdn.ru/icms/10243072.jpg"
+    },
+    "29321": {
+        "market_news_url": "https://hh.ru/article/29321",
+        "market_news_id": "29321",
+        "market_news_title": "Настоящее и будущее «цифры»: стоит ли обучаться digital-специальностям",
+        "market_news_img_url": "https://hhcdn.ru/icms/10243557.jpg"
+    },
+    "29466": {
+        "market_news_url": "https://hh.ru/article/29466",
+        "market_news_id": "29466",
+        "market_news_title": "Лесная промышленность в III квартале 2021 года: рост числа соискателей и нехватка кадров",
+        "market_news_img_url": "https://hhcdn.ru/icms/10242681.jpg"
+    },
+    "29416": {
+        "market_news_url": "https://hh.ru/article/29416",
+        "market_news_id": "29416",
+        "market_news_title": "Молодые специалисты: актуальные тренды трудоустройства",
+        "market_news_img_url": "https://hhcdn.ru/icms/10241789.jpg"
+    },
+    "29317": {
+        "market_news_url": "https://hh.ru/article/29317",
+        "market_news_id": "29317",
+        "market_news_title": "Сфера судостроения в России: с начала года требуется более 10 000 работников",
+        "market_news_img_url": "https://hhcdn.ru/icms/10240263.jpg"
+    },
+    "29053": {
+        "market_news_url": "https://hh.ru/article/29053",
+        "market_news_id": "29053",
+        "market_news_title": "Новый законопроект о персональных данных: как изменилась работа рекрутеров",
+        "market_news_img_url": "https://hhcdn.ru/icms/10236183.jpg"
+    },
+    "28819": {
+        "market_news_url": "https://hh.ru/article/28819",
+        "market_news_id": "28819",
+        "market_news_title": "CRM Talantix пополнила список интеграций: «Хабр Карьера» стал седьмым job-сайтом в интерфейсе системы",
+        "market_news_img_url": "https://hhcdn.ru/icms/10231222.jpg"
+    },
+    "28505": {
+        "market_news_url": "https://hh.ru/article/28505",
+        "market_news_id": "28505",
+        "market_news_title": "Идеальный шторм на рынке труда: что делать с дефицитом кадров",
+        "market_news_img_url": "https://hhcdn.ru/icms/10227109.jpg"
+    },
+    "28685": {
+        "market_news_url": "https://hh.ru/article/28685",
+        "market_news_id": "28685",
+        "market_news_title": "Обзор рынка труда в ИТ-сфере в начале 2021 года в России и Санкт-Петербурге",
+        "market_news_img_url": "https://hhcdn.ru/icms/10229129.jpg"
+    },
+    "28594": {
+        "market_news_url": "https://hh.ru/article/28594",
+        "market_news_id": "28594",
+        "market_news_title": "Почему про компанию не знают кандидаты? 11 способов повысить узнаваемость бренда работодателя",
+        "market_news_img_url": "https://hhcdn.ru/icms/10228560.jpg"
+    },
+    "28607": {
+        "market_news_url": "https://hh.ru/article/28607",
+        "market_news_id": "28607",
+        "market_news_title": "Объявлены победители Премии HR-бренд — 2020",
+        "market_news_img_url": "https://hhcdn.ru/icms/10228234.jpg"
+    },
+    "28506": {
+        "market_news_url": "https://hh.ru/article/28506",
+        "market_news_id": "28506",
+        "market_news_title": "Состояние рынка труда в Калининградской области по итогам первого квартала",
+        "market_news_img_url": "https://hhcdn.ru/icms/10227118.jpg"
+    },
+    "28507": {
+        "market_news_url": "https://hh.ru/article/28507",
+        "market_news_id": "28507",
+        "market_news_title": "Состояние рынка труда в Санкт-Петербурге по итогам первого квартала",
+        "market_news_img_url": "https://hhcdn.ru/icms/10227160.jpg"
+    },
+    "28511": {
+        "market_news_url": "https://hh.ru/article/28511",
+        "market_news_id": "28511",
+        "market_news_title": "Состояние рынка труда в Архангельской области по итогам первого квартала",
+        "market_news_img_url": "https://hhcdn.ru/icms/10227206.jpg"
+    },
+    "28489": {
+        "market_news_url": "https://hh.ru/article/28489",
+        "market_news_id": "28489",
+        "market_news_title": "Обзор рынка труда в сфере судостроения: итоги первого квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10226894.jpg"
+    },
+    "28494": {
+        "market_news_url": "https://hh.ru/article/28494",
+        "market_news_id": "28494",
+        "market_news_title": "Лесная промышленность и деревообработка: итоги первого квартала 2021 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10226903.jpg"
+    },
+    "28501": {
+        "market_news_url": "https://hh.ru/article/28501",
+        "market_news_id": "28501",
+        "market_news_title": "Состояние рынка труда в Ленинградской области по итогам первого квартала",
+        "market_news_img_url": "https://hhcdn.ru/icms/10227074.jpg"
+    },
+    "28502": {
+        "market_news_url": "https://hh.ru/article/28502",
+        "market_news_id": "28502",
+        "market_news_title": "Состояние рынка труда в Мурманской области по итогам первого квартала",
+        "market_news_img_url": "https://hhcdn.ru/icms/10227083.jpg"
+    },
+    "28283": {
+        "market_news_url": "https://hh.ru/article/28283",
+        "market_news_id": "28283",
+        "market_news_title": "Какие изменения произошли на рынке труда Калининградской области в конце 2020 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10223788.jpg"
+    },
+    "28284": {
+        "market_news_url": "https://hh.ru/article/28284",
+        "market_news_id": "28284",
+        "market_news_title": "Какие изменения произошли на рынке труда Мурманской области в конце 2020 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10224398.jpg"
+    },
+    "28285": {
+        "market_news_url": "https://hh.ru/article/28285",
+        "market_news_id": "28285",
+        "market_news_title": "Какие изменения произошли на рынке труда Санкт-Петербурга с начала коронакризиса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10223815.jpg"
+    },
+    "28286": {
+        "market_news_url": "https://hh.ru/article/28286",
+        "market_news_id": "28286",
+        "market_news_title": "Какие изменения произошли на рынке труда Ленинградской области с начала коронакризиса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10223824.jpg"
+    },
+    "28314": {
+        "market_news_url": "https://hh.ru/article/28314",
+        "market_news_id": "28314",
+        "market_news_title": "Российский рынок труда в сфере судостроения: итоги 2020 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10224268.jpg"
+    },
+    "28315": {
+        "market_news_url": "https://hh.ru/article/28315",
+        "market_news_id": "28315",
+        "market_news_title": "Рынок труда в сфере лесной промышленности и деревообработки: итоги 2020 года",
+        "market_news_img_url": "https://hhcdn.ru/icms/10224288.jpg"
+    },
+    "28270": {
+        "market_news_url": "https://hh.ru/article/28270",
+        "market_news_id": "28270",
+        "market_news_title": "Облачная CRM Talantix первой в России внедрила технологии ИИ для рекрутинга",
+        "market_news_img_url": "https://hhcdn.ru/icms/10223587.jpg"
+    },
+    "28239": {
+        "market_news_url": "https://hh.ru/article/28239",
+        "market_news_id": "28239",
+        "market_news_title": "Объявляем финалистов Премии HR-бренд 2020",
+        "market_news_img_url": "https://hhcdn.ru/icms/10223179.jpg"
+    },
+    "28188": {
+        "market_news_url": "https://hh.ru/article/28188",
+        "market_news_id": "28188",
+        "market_news_title": "Корпоративное обучение: чему и как хотят учиться соискатели",
+        "market_news_img_url": "https://hhcdn.ru/icms/10221791.jpg"
+    },
+    "28022": {
+        "market_news_url": "https://hh.ru/article/28022",
+        "market_news_id": "28022",
+        "market_news_title": "О чем говорили на саммите HR Digital 2020: важные тренды, яркие цитаты",
+        "market_news_img_url": "https://hhcdn.ru/icms/10218996.jpg"
+    },
+    "26019": {
+        "market_news_url": "https://hh.ru/article/26019",
+        "market_news_id": "26019",
+        "market_news_title": "Как просить повышения зарплаты: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10218452.jpg"
+    },
+    "27929": {
+        "market_news_url": "https://hh.ru/article/27929",
+        "market_news_id": "27929",
+        "market_news_title": "Какие навыки стали самыми важными в 2020 году: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10217248.jpg"
+    },
+    "27902": {
+        "market_news_url": "https://hh.ru/article/27902",
+        "market_news_id": "27902",
+        "market_news_title": "Рынок вакансий для соискателей с инвалидностью: что изменилось за время пандемии",
+        "market_news_img_url": "https://hhcdn.ru/icms/10216899.jpg"
+    },
+    "27848": {
+        "market_news_url": "https://hh.ru/article/27848",
+        "market_news_id": "27848",
+        "market_news_title": "С каким настроением работники и соискатели заканчивают 2020 год",
+        "market_news_img_url": "https://hhcdn.ru/icms/10216380.jpg"
+    },
+    "27611": {
+        "market_news_url": "https://hh.ru/article/27611",
+        "market_news_id": "27611",
+        "market_news_title": "Планы работодателей до конца года: сокращения или активный наём?",
+        "market_news_img_url": "https://hhcdn.ru/icms/10213713.jpeg"
+    },
+    "27614": {
+        "market_news_url": "https://hh.ru/article/27614",
+        "market_news_id": "27614",
+        "market_news_title": "Кто доволен своей зарплатой?",
+        "market_news_img_url": "https://hhcdn.ru/icms/10214359.jpeg"
+    },
+    "27501": {
+        "market_news_url": "https://hh.ru/article/27501",
+        "market_news_id": "27501",
+        "market_news_title": "Офис hh.ru после пандемии: что нас ждет по возвращению в рабочее пространство",
+        "market_news_img_url": "https://hhcdn.ru/icms/10211594.jpeg"
+    },
+    "27469": {
+        "market_news_url": "https://hh.ru/article/27469",
+        "market_news_id": "27469",
+        "market_news_title": "Объявлены победители Премии HR-бренд 2019: поздравляем!",
+        "market_news_img_url": "https://hhcdn.ru/icms/10211098.jpeg"
+    },
+    "27424": {
+        "market_news_url": "https://hh.ru/article/27424",
+        "market_news_id": "27424",
+        "market_news_title": "Что больше всего пугает при поиске работы: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10210570.jpeg"
+    },
+    "27329": {
+        "market_news_url": "https://hh.ru/article/27329",
+        "market_news_id": "27329",
+        "market_news_title": "Рынок труда как на ладони",
+        "market_news_img_url": "https://hhcdn.ru/icms/10208773.jpeg"
+    },
+    "27264": {
+        "market_news_url": "https://hh.ru/article/27264",
+        "market_news_id": "27264",
+        "market_news_title": "Как коронакризис отразился на рынке труда в лесной промышленности",
+        "market_news_img_url": "https://hhcdn.ru/icms/10208339.jpeg"
+    },
+    "27250": {
+        "market_news_url": "https://hh.ru/article/27250",
+        "market_news_id": "27250",
+        "market_news_title": "Как кризис повлиял на рынок труда SMM-специалистов",
+        "market_news_img_url": "https://hhcdn.ru/icms/10207962.jpeg"
+    },
+    "27253": {
+        "market_news_url": "https://hh.ru/article/27253",
+        "market_news_id": "27253",
+        "market_news_title": "Как пандемия повлияла на рынок труда в сфере судостроения",
+        "market_news_img_url": "https://hhcdn.ru/icms/10208054.jpeg"
+    },
+    "27176": {
+        "market_news_url": "https://hh.ru/article/27176",
+        "market_news_id": "27176",
+        "market_news_title": "Как «коронакризис» повлиял на рынок труда",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206812.jpeg"
+    },
+    "27243": {
+        "market_news_url": "https://hh.ru/article/27243",
+        "market_news_id": "27243",
+        "market_news_title": "Работа и возраст: стереотипы и реальность",
+        "market_news_img_url": "https://hhcdn.ru/icms/10207828.jpeg"
+    },
+    "27159": {
+        "market_news_url": "https://hh.ru/article/27159",
+        "market_news_id": "27159",
+        "market_news_title": "Зарплатные тренды первого полугодия 2020 года: худшие прогнозы не сбылись",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206773.jpeg"
+    },
+    "27173": {
+        "market_news_url": "https://hh.ru/article/27173",
+        "market_news_id": "27173",
+        "market_news_title": "Приглашаем на торжественную церемонию вручения Премии HR-бренд 2019!",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206725.jpeg"
+    },
+    "27138": {
+        "market_news_url": "https://hh.ru/article/27138",
+        "market_news_id": "27138",
+        "market_news_title": "Остаться на «вечной» удалёнке решили 3% работодателей",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206137.jpeg"
+    },
+    "27145": {
+        "market_news_url": "https://hh.ru/article/27145",
+        "market_news_id": "27145",
+        "market_news_title": "Как проходит учеба на самоизоляции — результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206224.jpeg"
+    },
+    "27131": {
+        "market_news_url": "https://hh.ru/article/27131",
+        "market_news_id": "27131",
+        "market_news_title": "Как часто удается превратить хобби в профессию? Результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206025.jpeg"
+    },
+    "27108": {
+        "market_news_url": "https://hh.ru/article/27108",
+        "market_news_id": "27108",
+        "market_news_title": "Как компании работают с кадровым резервом: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10205690.jpeg"
+    },
+    "27128": {
+        "market_news_url": "https://hh.ru/article/27128",
+        "market_news_id": "27128",
+        "market_news_title": "Специалисты по Data Science: основные навыки и спрос работодателей",
+        "market_news_img_url": "https://hhcdn.ru/icms/10206831.jpeg"
+    },
+    "27074": {
+        "market_news_url": "https://hh.ru/article/27074",
+        "market_news_id": "27074",
+        "market_news_title": "Какой срок поиска работы считается нормальным?",
+        "market_news_img_url": "https://hhcdn.ru/icms/10231884.jpg"
+    },
+    "26417": {
+        "market_news_url": "https://hh.ru/article/26417",
+        "market_news_id": "26417",
+        "market_news_title": "Удаленная работа: как выстроить все процессы",
+        "market_news_img_url": "https://hhcdn.ru/icms/10194171.jpeg"
+    },
+    "27043": {
+        "market_news_url": "https://hh.ru/article/27043",
+        "market_news_id": "27043",
+        "market_news_title": "На что работодатели обращают внимание в резюме: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10204519.jpeg"
+    },
+    "26998": {
+        "market_news_url": "https://hh.ru/article/26998",
+        "market_news_id": "26998",
+        "market_news_title": "Представляем проект «Как там today»: новый способ узнавать о том, что сейчас происходит в разных отраслях",
+        "market_news_img_url": "https://hhcdn.ru/icms/10203392.jpeg"
+    },
+    "26942": {
+        "market_news_url": "https://hh.ru/article/26942",
+        "market_news_id": "26942",
+        "market_news_title": "Когда и как работодатели возвращают сотрудников с удалёнки",
+        "market_news_img_url": "https://hhcdn.ru/icms/10202698.jpeg"
+    },
+    "26889": {
+        "market_news_url": "https://hh.ru/article/26889",
+        "market_news_id": "26889",
+        "market_news_title": "Сокращения или увеличение штата и зарплат? Актуальные планы работодателей",
+        "market_news_img_url": "https://hhcdn.ru/icms/10201865.jpeg"
+    },
+    "26903": {
+        "market_news_url": "https://hh.ru/article/26903",
+        "market_news_id": "26903",
+        "market_news_title": "Объявляем победителей рейтинга «Лучшие факультеты и вузы Москвы по версии hh.ru 2019–2020»",
+        "market_news_img_url": "https://hhcdn.ru/icms/10202173.jpeg"
+    },
+    "26840": {
+        "market_news_url": "https://hh.ru/article/26840",
+        "market_news_id": "26840",
+        "market_news_title": "Результаты опроса: за время эпидемии зарплата уменьшилась у 45%",
+        "market_news_img_url": "https://hhcdn.ru/icms/10201040.jpeg"
+    },
+    "26771": {
+        "market_news_url": "https://hh.ru/article/26771",
+        "market_news_id": "26771",
+        "market_news_title": "Что и кто больше всего отвлекает от работы на удалёнке?",
+        "market_news_img_url": "https://hhcdn.ru/icms/10200215.jpeg"
+    },
+    "26706": {
+        "market_news_url": "https://hh.ru/article/26706",
+        "market_news_id": "26706",
+        "market_news_title": "Что пишут про коронавирус в вакансиях и резюме",
+        "market_news_img_url": "https://hhcdn.ru/icms/10198835.jpeg"
+    },
+    "26647": {
+        "market_news_url": "https://hh.ru/article/26647",
+        "market_news_id": "26647",
+        "market_news_title": "Что происходит на рынке труда этой весной",
+        "market_news_img_url": "https://hhcdn.ru/icms/10197871.jpeg"
+    },
+    "26656": {
+        "market_news_url": "https://hh.ru/article/26656",
+        "market_news_id": "26656",
+        "market_news_title": "Перспективы «вечной» удалёнки после изоляции: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10197841.jpeg"
+    },
+    "26564": {
+        "market_news_url": "https://hh.ru/article/26564",
+        "market_news_id": "26564",
+        "market_news_title": "Объявляем лучших работодателей России",
+        "market_news_img_url": "https://hhcdn.ru/icms/10196298.jpeg"
+    },
+    "26580": {
+        "market_news_url": "https://hh.ru/article/26580",
+        "market_news_id": "26580",
+        "market_news_title": "Работа HR в переходный период: эксперты делятся опытом",
+        "market_news_img_url": "https://hhcdn.ru/icms/10196395.jpeg"
+    },
+    "26512": {
+        "market_news_url": "https://hh.ru/article/26512",
+        "market_news_id": "26512",
+        "market_news_title": "Плюсы и минусы режима самозанятости: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10198592.jpeg"
+    },
+    "26511": {
+        "market_news_url": "https://hh.ru/article/26511",
+        "market_news_id": "26511",
+        "market_news_title": "11% не уходили на удалёнку, потому что не верили в опасность",
+        "market_news_img_url": "https://hhcdn.ru/icms/10195540.jpeg"
+    },
+    "26426": {
+        "market_news_url": "https://hh.ru/article/26426",
+        "market_news_id": "26426",
+        "market_news_title": "Профилактика COVID-19 в компаниях и другие полезные ссылки",
+        "market_news_img_url": "https://hhcdn.ru/icms/10194359.jpeg"
+    },
+    "26396": {
+        "market_news_url": "https://hh.ru/article/26396",
+        "market_news_id": "26396",
+        "market_news_title": "Петербургская «HR-перезагрузка 2.0» переносится",
+        "market_news_img_url": "https://hhcdn.ru/icms/10193941.jpeg"
+    },
+    "26370": {
+        "market_news_url": "https://hh.ru/article/26370",
+        "market_news_id": "26370",
+        "market_news_title": "HeadHunter переносит награждение победителей Премии HR-бренд 2019",
+        "market_news_img_url": "https://hhcdn.ru/icms/10193647.jpeg"
+    },
+    "26280": {
+        "market_news_url": "https://hh.ru/article/26280",
+        "market_news_id": "26280",
+        "market_news_title": "Достижимо ли гендерное равенство на рынке труда?",
+        "market_news_img_url": "https://hhcdn.ru/icms/10192706.jpeg"
+    },
+    "26288": {
+        "market_news_url": "https://hh.ru/article/26288",
+        "market_news_id": "26288",
+        "market_news_title": "Как автоматизирован рекрутмент в российских компаниях",
+        "market_news_img_url": "https://hhcdn.ru/icms/10192645.jpeg"
+    },
+    "26242": {
+        "market_news_url": "https://hh.ru/article/26242",
+        "market_news_id": "26242",
+        "market_news_title": "Обзор рынка труда в сфере маркетинга, рекламы и PR",
+        "market_news_img_url": "https://hhcdn.ru/icms/10191819.jpeg"
+    },
+    "26243": {
+        "market_news_url": "https://hh.ru/article/26243",
+        "market_news_id": "26243",
+        "market_news_title": "Рынок труда в ретейле: спрос, предложение, портрет соискателя",
+        "market_news_img_url": "https://hhcdn.ru/icms/10191828.jpeg"
+    },
+    "26241": {
+        "market_news_url": "https://hh.ru/article/26241",
+        "market_news_id": "26241",
+        "market_news_title": "«HR-перезагрузка» 2.0: переход на новый уровень",
+        "market_news_img_url": "https://hhcdn.ru/icms/10191886.jpeg"
+    },
+    "26205": {
+        "market_news_url": "https://hh.ru/article/26205",
+        "market_news_id": "26205",
+        "market_news_title": "Как переманивают чужих сотрудников",
+        "market_news_img_url": "https://hhcdn.ru/icms/10191399.jpeg"
+    },
+    "26160": {
+        "market_news_url": "https://hh.ru/article/26160",
+        "market_news_id": "26160",
+        "market_news_title": "Насколько важен соцпакет при выборе нового места работы?",
+        "market_news_img_url": "https://hhcdn.ru/icms/10190983.jpeg"
+    },
+    "26120": {
+        "market_news_url": "https://hh.ru/article/26120",
+        "market_news_id": "26120",
+        "market_news_title": "Карьерные итоги десятилетия и планы на следующие 10 лет: результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10189945.jpeg"
+    },
+    "26093": {
+        "market_news_url": "https://hh.ru/article/26093",
+        "market_news_id": "26093",
+        "market_news_title": "Объявляем финалистов Премии HR-бренд 2019!",
+        "market_news_img_url": "https://hhcdn.ru/icms/10189460.jpeg"
+    },
+    "26045": {
+        "market_news_url": "https://hh.ru/article/26045",
+        "market_news_id": "26045",
+        "market_news_title": "Что происходит на рынке труда: итоги-2019",
+        "market_news_img_url": "https://hhcdn.ru/icms/10188934.jpeg"
+    },
+    "26053": {
+        "market_news_url": "https://hh.ru/article/26053",
+        "market_news_id": "26053",
+        "market_news_title": "Как часто работодатель должен повышать зарплату? Результаты опроса",
+        "market_news_img_url": "https://hhcdn.ru/icms/10188925.jpeg"
+    }
+}
