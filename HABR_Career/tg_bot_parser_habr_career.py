@@ -4,7 +4,7 @@ import os
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InputFile
 
-token = '5494560999:AAFDg2bLNWFn-9Sc5t7Y-XfuvpFoSfy6s3I'
+token = ''
 bot = Bot(token=token, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
